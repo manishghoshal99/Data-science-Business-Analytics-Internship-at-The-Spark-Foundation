@@ -1,6 +1,7 @@
 <br>
 <img height="27" src="https://img.shields.io/badge/Prediction using Supervised ML -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=red" />
 <br>
+
 > Problem Statement:
 - Predict the percentage of an student based on the no. of study hours. <br>
 - This is a simple linear regression task as it involves just 2 variables.<br>
@@ -11,8 +12,9 @@
 > Solution:
 <a href="https://github.com/manishghoshal99/Prediction-Using-Supervised-ML/blob/main/Prediction-Using-Supervised-ML.ipynb"> Prediction using Supervised ML</a>
 
->Demo:
+> Demo:
 <a href="...">Prediction using Supervised ML - To Be Added!</a>
+
 <br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>
@@ -32,6 +34,6 @@
 
 
   
-If you have any Queries or Suggestions, feel free to reach out to me.
+If you have any Queries or Suggestions, feel free to reach out to me!
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
