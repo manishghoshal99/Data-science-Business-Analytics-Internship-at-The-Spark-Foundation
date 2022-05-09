@@ -14,7 +14,7 @@
 <a href="https://github.com/manishghoshal99/Prediction-Using-Supervised-ML/blob/main/Prediction-Using-Supervised-ML.ipynb"> Prediction using Supervised ML</a>
 
 > Demo:
-<a href="...">Prediction using Supervised ML - To Be Added!</a>
+<a href="https://youtu.be/nVNPTLAgqgM">Prediction using Supervised ML</a>
 
 <br><br>
 <p align="center">
